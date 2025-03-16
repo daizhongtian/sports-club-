@@ -1,0 +1,3 @@
+This project is a Club Management System implemented in C++ that is designed to manage various entities within a club, including Members, Coaches, Teams, and Events. The project is developed using object-oriented programming (OOP) principles, where each entity is represented by a dedicated class.
+The system supports CRUD (Create, Read, Update, Delete) operations for all entities, facilitating ease of maintenance, scalability, and future enhancements.
+
